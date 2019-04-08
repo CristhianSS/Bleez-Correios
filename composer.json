@@ -2,8 +2,8 @@
     "name": "bleez/trezo-correios",
     "description": "Modulo correios magento 2",
     "type": "magento2-module",
-    "version": "0.0.3",
-    "minimum-stability": "dev",
+    "version": "0.0.7",
+    "minimum-stability": "stable",
     "require": {
         "php": "~5.6.0|>=7.0.0",
         "trezo/php-sigep": "0.0.3",
